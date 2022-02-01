@@ -6,7 +6,7 @@
       "price": 70
     },
     {
-      "name": "Arborio rice",
+      "name": "Arabic rice",
       "weight": 20,
       "price": 90
     }
@@ -16,6 +16,11 @@
       "name": "Black Gram",
       "weight": 12,
       "price": 123
+    },
+    {
+      "name": "Chetak Pulse",
+      "price": 125,
+      "weight": 10
     }
   ],
   "Wheats": [
@@ -24,5 +29,5 @@
       "weight": 20,
       "price": 150
     }
-  ]
+  ]  
 }
